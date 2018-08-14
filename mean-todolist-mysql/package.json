@@ -1,0 +1,21 @@
+{
+  "name": "mytasklist",
+  "version": "1.0.0",
+  "description": "Simple task manager",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.4",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "mysql2": "^1.6.1",
+    "nodemon": "^1.18.4",
+    "sequelize": "^4.38.0"
+  }
+}
