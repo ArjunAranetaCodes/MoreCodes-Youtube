@@ -1,0 +1,24 @@
+<form class="form" (submit)="add(taskTitle.value); taskTitle.value=''">
+    <div class="form-group">
+        <input #taskTitle class="form-control" placeholder="Task Name" />
+    </div>
+    <input type="submit" value="SUBMIT" class="btn btn-success btn-lg btn-block" />
+</form>
+
+<table class="table">
+    <tr *ngFor="let task of tasks">
+        <td class="text-left ">
+            <a (click)="edit(task)">
+                <span *ngIf="task!==editTask">{{task.title}}</span>
+                <input *ngIf="task===editTask" [(ngModel)]="task.title" (blur)="update()" (keyup.enter)="update()">
+            </a>
+        </td>
+        <td class="text-right">
+            <button class="btn btn-danger" title="delete task" (click)="delete(task)">Delete</button>
+        </td>
+    </tr>
+</table>
+
+<div class="card card-body bg-light text-center">
+    <span class="small">* click on item to edit and just click anywhere to update</span>
+</div>
