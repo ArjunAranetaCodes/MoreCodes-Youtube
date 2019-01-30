@@ -1,2 +1,2 @@
-# nodejs-mysql-authentication
-A simple login and register using nodejs, mysql, and jwt token
+# VueJS, MongoDB, NodeJS Login Registration
+A simple login and register using NodeJS, MongoDB, and VueJs
