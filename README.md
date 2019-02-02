@@ -4,8 +4,8 @@ Todo List Application | Login and Registration
 --- | ---
 [NodeJS + Express + ReactJS + MongoDB](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/mern-todolist-mongodb) | [NodeJS + Express + ReactJS + MongoDB]()
 [NodeJS + Express + ReactJS + MySQL](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/mern-todolist-mysql) | [NodeJS + Express + ReactJS + MySQL]()
-[NodeJS + Express + AngularJS + MongoDB]() | [NodeJS + Express + AngularJS + MongoDB]()
-[NodeJS + Express + AngularJS + MySQL]() | [NodeJS + Express + AngularJS + MySQL]()
+[NodeJS + Express + AngularJS + MongoDB](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/mean-todolist-mongodb) | [NodeJS + Express + AngularJS + MongoDB]()
+[NodeJS + Express + AngularJS + MySQL](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/mean-todolist-mysql) | [NodeJS + Express + AngularJS + MySQL]()
 [NodeJS + Express + VueJS + MongoDB]() | [NodeJS + Express + VueJS + MongoDB]()
 [NodeJS + Express + VueJS + MySQL]() | [NodeJS + Express + VueJS + MySQL]()
 [Flask + ReactJS + MongoDB]() | [Flask + ReactJS + MongoDB]()
