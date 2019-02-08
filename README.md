@@ -31,4 +31,4 @@ Todo List Application | Login and Registration
 [HapiJS + AngularJS + MongoDB](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/hapijs-angular-mongodb-todolist) | [HapiJS + AngularJS + MongoDB]()
 [HapiJS + AngularJS + MySQL](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/hapijs-angular-mysql-todolist) | [HapiJS + AngularJS + MySQL]()
 [HapiJS + VueJS + MongoDB](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/hapijs-vuejs-mongodb-todolist) | [HapiJS + VueJS + MongoDB]()
-[HapiJS + VueJS + MySQL]() | [HapiJS + VueJS + MySQL]()
+[HapiJS + VueJS + MySQL](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/hapijs-vuejs-mysql-todolist) | [HapiJS + VueJS + MySQL]()
