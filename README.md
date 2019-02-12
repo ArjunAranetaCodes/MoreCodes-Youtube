@@ -29,6 +29,6 @@ Todo List Application | Login and Registration
 [HapiJS + ReactJS + MongoDB](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/hapijs-react-mongodb-todolist) | [HapiJS + ReactJS + MongoDB](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/hapijs-react-mongodb-login-reg)
 [HapiJS + ReactJS + MySQL](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/hapijs-react-mysql-todolist) | [HapiJS + ReactJS + MySQL](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/hapijs-react-mysql-login-reg)
 [HapiJS + AngularJS + MongoDB](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/hapijs-angular-mongodb-todolist) | [HapiJS + AngularJS + MongoDB](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/hapijs-angular-mongodb-login-reg)
-[HapiJS + AngularJS + MySQL](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/hapijs-angular-mysql-todolist) | [HapiJS + AngularJS + MySQL]()
+[HapiJS + AngularJS + MySQL](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/hapijs-angular-mysql-todolist) | [HapiJS + AngularJS + MySQL](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/hapijs-angular-mysql-login-reg)
 [HapiJS + VueJS + MongoDB](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/hapijs-vuejs-mongodb-todolist) | [HapiJS + VueJS + MongoDB]()
 [HapiJS + VueJS + MySQL](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/hapijs-vuejs-mysql-todolist) | [HapiJS + VueJS + MySQL]()
