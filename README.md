@@ -51,13 +51,13 @@ Todo List Application | Login and Registration
 <p align="center">
 Join Us on Youtube! <br/>
 <a href="https://www.youtube.com/channel/UCK8YsKv4-N6ItZfzEyKlI6A">https://www.youtube.com/channel/UCK8YsKv4-N6ItZfzEyKlI6A</a>
-</p>
-
+<br/><br/>
 Follow MoreCodes on Social Media: <br/>
 Facebook: <a href="https://www.facebook.com/morecodes/">https://www.facebook.com/morecodes/</a><br/>
-Twitter: [https://twitter.com/MoreCodes](https://twitter.com/MoreCodes) <br/>
+Twitter: <a href="https://twitter.com/MoreCodes">https://twitter.com/MoreCodes</a> <br/>
  <br/> <br/>
 Follow me on Social Media: <br/>
-Facebook: [https://www.facebook.com/arjun.araneta](https://www.facebook.com/arjun.araneta) <br/>
-Twitter: [https://twitter.com/ArjunCAraneta](https://twitter.com/ArjunCAraneta) <br/>
-LinkedIn: [https://www.linkedin.com/in/arjun-araneta-41146976/](https://www.linkedin.com/in/arjun-araneta-41146976/) <br/>
+Facebook: <a href="https://www.facebook.com/arjun.araneta">https://www.facebook.com/arjun.araneta</a> <br/>
+Twitter: <a href="https://twitter.com/ArjunCAraneta">https://twitter.com/ArjunCAraneta</a> <br/>
+LinkedIn: <a href="https://www.linkedin.com/in/arjun-araneta-41146976/">https://www.linkedin.com/in/arjun-araneta-41146976/</a> <br/>
+</p>
