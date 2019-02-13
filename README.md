@@ -32,3 +32,12 @@ Todo List Application | Login and Registration
 [HapiJS + AngularJS + MySQL](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/hapijs-angular-mysql-todolist) | [HapiJS + AngularJS + MySQL](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/hapijs-angular-mysql-login-reg)
 [HapiJS + VueJS + MongoDB](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/hapijs-vuejs-mongodb-todolist) | [HapiJS + VueJS + MongoDB](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/hapijs-vuejs-mongodb-login-reg)
 [HapiJS + VueJS + MySQL](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/hapijs-vuejs-mysql-todolist) | [HapiJS + VueJS + MySQL](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/hapijs-vuejs-mysql-login-reg)
+
+Follow MoreCodes on Social Media:
+Facebook: https://www.facebook.com/morecodes/
+Twitter: https://twitter.com/MoreCodes
+
+Follow me on Social Media:
+Facebook: https://www.facebook.com/arjun.araneta
+Twitter: https://twitter.com/ArjunCAraneta
+LinkedIn: https://www.linkedin.com/in/arjun-araneta-41146976/
