@@ -1,5 +1,15 @@
 A collection of Todo List and Login Registration Boilerplates I used in my MoreCodes Youtube Channel - https://www.youtube.com/channel/UCK8YsKv4-N6ItZfzEyKlI6A
 
+<h1 align="center">MoreCodes</h1>
+<p align="center"> 
+  <img src="/morecodescir.png"/>
+</p>
+
+<p align="center">
+Join Us on Youtube! <br/>
+<i><u>https://www.youtube.com/channel/UCK8YsKv4-N6ItZfzEyKlI6A/featured</u></i>
+</p>
+
 Todo List Application | Login and Registration
 --- | ---
 [NodeJS + Express + ReactJS + MongoDB](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/mern-todolist-mongodb) | [NodeJS + Express + ReactJS + MongoDB](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/mern-mongodb-login-reg)
@@ -33,11 +43,21 @@ Todo List Application | Login and Registration
 [HapiJS + VueJS + MongoDB](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/hapijs-vuejs-mongodb-todolist) | [HapiJS + VueJS + MongoDB](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/hapijs-vuejs-mongodb-login-reg)
 [HapiJS + VueJS + MySQL](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/hapijs-vuejs-mysql-todolist) | [HapiJS + VueJS + MySQL](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/hapijs-vuejs-mysql-login-reg)
 
+<h1 align="center">MoreCodes</h1>
+<p align="center"> 
+  <img src="/morecodescir.png"/>
+</p>
+
+<p align="center">
+Join Us on Youtube! <br/>
+[https://www.youtube.com/channel/UCK8YsKv4-N6ItZfzEyKlI6A](https://www.youtube.com/channel/UCK8YsKv4-N6ItZfzEyKlI6A)
+</p>
+
 Follow MoreCodes on Social Media:
-Facebook: https://www.facebook.com/morecodes/
-Twitter: https://twitter.com/MoreCodes
+Facebook: [https://www.facebook.com/morecodes/](https://www.facebook.com/morecodes/)
+Twitter: [https://twitter.com/MoreCodes](https://twitter.com/MoreCodes)
 
 Follow me on Social Media:
-Facebook: https://www.facebook.com/arjun.araneta
-Twitter: https://twitter.com/ArjunCAraneta
-LinkedIn: https://www.linkedin.com/in/arjun-araneta-41146976/
+Facebook: [https://www.facebook.com/arjun.araneta](https://www.facebook.com/arjun.araneta)
+Twitter: [https://twitter.com/ArjunCAraneta](https://twitter.com/ArjunCAraneta)
+LinkedIn: [https://www.linkedin.com/in/arjun-araneta-41146976/](https://www.linkedin.com/in/arjun-araneta-41146976/)
