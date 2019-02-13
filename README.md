@@ -50,14 +50,14 @@ Todo List Application | Login and Registration
 
 <p align="center">
 Join Us on Youtube! <br/>
-[https://www.youtube.com/channel/UCK8YsKv4-N6ItZfzEyKlI6A](https://www.youtube.com/channel/UCK8YsKv4-N6ItZfzEyKlI6A)
+<a href="https://www.youtube.com/channel/UCK8YsKv4-N6ItZfzEyKlI6A">https://www.youtube.com/channel/UCK8YsKv4-N6ItZfzEyKlI6A</a>
 </p>
 
-Follow MoreCodes on Social Media:
-Facebook: [https://www.facebook.com/morecodes/](https://www.facebook.com/morecodes/)
-Twitter: [https://twitter.com/MoreCodes](https://twitter.com/MoreCodes)
-
-Follow me on Social Media:
-Facebook: [https://www.facebook.com/arjun.araneta](https://www.facebook.com/arjun.araneta)
-Twitter: [https://twitter.com/ArjunCAraneta](https://twitter.com/ArjunCAraneta)
-LinkedIn: [https://www.linkedin.com/in/arjun-araneta-41146976/](https://www.linkedin.com/in/arjun-araneta-41146976/)
+Follow MoreCodes on Social Media: <br/>
+Facebook: <a href="https://www.facebook.com/morecodes/">https://www.facebook.com/morecodes/</a><br/>
+Twitter: [https://twitter.com/MoreCodes](https://twitter.com/MoreCodes) <br/>
+ <br/> <br/>
+Follow me on Social Media: <br/>
+Facebook: [https://www.facebook.com/arjun.araneta](https://www.facebook.com/arjun.araneta) <br/>
+Twitter: [https://twitter.com/ArjunCAraneta](https://twitter.com/ArjunCAraneta) <br/>
+LinkedIn: [https://www.linkedin.com/in/arjun-araneta-41146976/](https://www.linkedin.com/in/arjun-araneta-41146976/) <br/>
