@@ -54,8 +54,8 @@ Join Us on Youtube! <br/>
 <br/><br/>
 Follow MoreCodes on Social Media: <br/>
 Facebook: <a href="https://www.facebook.com/morecodes/">https://www.facebook.com/morecodes/</a><br/>
-Twitter: <a href="https://twitter.com/MoreCodes">https://twitter.com/MoreCodes</a> <br/>
- <br/> <br/>
+Twitter: <a href="https://twitter.com/MoreCodes">https://twitter.com/MoreCodes</a>
+<br/><br/>
 Follow me on Social Media: <br/>
 Facebook: <a href="https://www.facebook.com/arjun.araneta">https://www.facebook.com/arjun.araneta</a> <br/>
 Twitter: <a href="https://twitter.com/ArjunCAraneta">https://twitter.com/ArjunCAraneta</a> <br/>
