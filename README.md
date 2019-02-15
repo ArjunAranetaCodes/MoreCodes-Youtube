@@ -9,7 +9,7 @@ A collection of Todo List and Login Registration Boilerplates I used in my MoreC
 Join Us on Youtube! <br/>
 <i><u>https://www.youtube.com/channel/UCK8YsKv4-N6ItZfzEyKlI6A/featured</u></i>
 </p>
-<div style="text-align:center">
+
 |Todo List Application | Login and Registration|
 |--- | --- |
 |[NodeJS + Express + ReactJS + MongoDB](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/mern-todolist-mongodb) | [NodeJS + Express + ReactJS + MongoDB](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/mern-mongodb-login-reg)|
@@ -42,7 +42,7 @@ Join Us on Youtube! <br/>
 |[HapiJS + AngularJS + MySQL](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/hapijs-angular-mysql-todolist) | [HapiJS + AngularJS + MySQL](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/hapijs-angular-mysql-login-reg)|
 |[HapiJS + VueJS + MongoDB](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/hapijs-vuejs-mongodb-todolist) | [HapiJS + VueJS + MongoDB](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/hapijs-vuejs-mongodb-login-reg)|
 |[HapiJS + VueJS + MySQL](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/hapijs-vuejs-mysql-todolist) | [HapiJS + VueJS + MySQL](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/hapijs-vuejs-mysql-login-reg)|
-</div>
+
 <h1 align="center">MoreCodes</h1>
 <p align="center"> 
   <img src="/morecodescir.png"/>
