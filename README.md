@@ -10,7 +10,7 @@ Join Us on Youtube! <br/>
 <i><u>https://www.youtube.com/channel/UCK8YsKv4-N6ItZfzEyKlI6A/featured</u></i>
 </p>
 
-<table width="100%">
+<table style="width:100%">
 <tr>
 <td><b>Todo List Application</b></td>
 <td><b>Login and Registration</b></td>
