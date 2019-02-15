@@ -1,39 +1,9 @@
 A collection of Todo List and Login Registration Boilerplates I used in my MoreCodes Youtube Channel - https://www.youtube.com/channel/UCK8YsKv4-N6ItZfzEyKlI6A
 
-<h1 align="center">MoreCodes</h1>
-<p align="center"> 
-  <img src="/morecodescir.png"/>
+<h1 align="left">MoreCodes</h1>
+<p align="left">
+Join Us on Youtube! <i><u>https://www.youtube.com/channel/UCK8YsKv4-N6ItZfzEyKlI6A/featured</u></i>
 </p>
-
-<p align="center">
-Join Us on Youtube! <br/>
-<i><u>https://www.youtube.com/channel/UCK8YsKv4-N6ItZfzEyKlI6A/featured</u></i>
-</p>
-
-<style>
-table {
-    width:100%;
-}
-</style>
-
-<table style="width:100%">
-<tr>
-<td><b>Todo List Application</b></td>
-<td><b>Login and Registration</b></td>
-</tr>
-<tr>
-<td><a href="https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/mern-todolist-mongodb">NodeJS + Express + ReactJS + MongoDB</a></td>
-<td><a href="https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/mern-mongodb-login-reg">NodeJS + Express + ReactJS + MongoDB</a></td>
-</tr>
-<tr>
-<td><a href=""></a></td>
-<td><a href=""></a></td>
-</tr>
-<tr>
-<td><a href=""></a></td>
-<td><a href=""></a></td>
-</tr>
-</table>
 
 |Todo List Application | Login and Registration|
 |--- | --- |
