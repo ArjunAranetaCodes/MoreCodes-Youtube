@@ -10,6 +10,12 @@ Join Us on Youtube! <br/>
 <i><u>https://www.youtube.com/channel/UCK8YsKv4-N6ItZfzEyKlI6A/featured</u></i>
 </p>
 
+<style>
+table {
+    width:100%;
+}
+</style>
+
 <table style="width:100%">
 <tr>
 <td><b>Todo List Application</b></td>
