@@ -1,0 +1,20 @@
+{
+  "name": "hapi-rest-mongo",
+  "version": "1.0.0",
+  "description": "Simple REST project with hapijs and mongodb.",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Patrick Meier",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "hapi": "^17.6.0",
+    "mysql2": "^1.6.1",
+    "nodemon": "^1.18.4",
+    "npm": "^6.4.1",
+    "sequelize": "^4.39.0"
+  }
+}
