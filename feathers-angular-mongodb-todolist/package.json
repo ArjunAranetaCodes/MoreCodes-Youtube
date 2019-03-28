@@ -1,0 +1,22 @@
+{
+  "name": "feathersjsbasics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@feathersjs/express": "^4.3.5",
+    "@feathersjs/feathers": "^4.3.4",
+    "@feathersjs/socketio": "^4.3.5",
+    "feathers-mongoose": "^8.1.0",
+    "feathers-sequelize": "^6.1.0",
+    "mongoose": "^5.7.5",
+    "nodemon": "^1.19.3"
+  }
+}
