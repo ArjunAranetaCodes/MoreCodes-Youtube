@@ -39,6 +39,7 @@ Join Us on Youtube! <i><u>https://www.youtube.com/channel/UCK8YsKv4-N6ItZfzEyKlI
 |[HapiJS + VueJS + MySQL](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/hapijs-vuejs-mysql-todolist) | [HapiJS + VueJS + MySQL](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/hapijs-vuejs-mysql-login-reg)|
 |[FeatherJS + ReactJS + MongoDB](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/feathers-react-mongodb-todolist) | FeatherJS + ReactJS + MongoDB|
 |[FeatherJS + ReactJS + MySQL](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/feathers-react-mysql-todolist) | FeatherJS + ReactJS + MySQL|
+|[FeatherJS + AngularJS + MongoDB](https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/feathers-angular-mongodb-todolist) | FeatherJS + AngularJS + MongoDB|
 
 <h1 align="center">MoreCodes</h1>
 <p align="center"> 
