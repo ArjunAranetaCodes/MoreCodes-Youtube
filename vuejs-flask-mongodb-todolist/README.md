@@ -1,2 +1,10 @@
-# VueJS, MongoDB, Flask Todo List
-A todo list sample application with MongoDB, VueJS, Flask
+# Flask + VueJs + MongoDB Todo List
+
+![VueJs Todo](../screenshots/vue-todo.PNG)
+#
+![VueJs Todo](../screenshots/vue-todo2.PNG)
+
+
+## Setup
+
+Manually clone the repo and then run `npm install`.
