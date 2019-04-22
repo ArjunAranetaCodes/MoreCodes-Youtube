@@ -1,4 +1,4 @@
-# FeatherJS + ReactJS + MongoDB Todo List
+# FeatherJS + ReactJS + MySQL Todo List
 
 ![ReactJS Todo](../screenshots/react-todo.PNG)
 #
