@@ -1,4 +1,4 @@
-# FeatherJS + VueJS + MongoDB Todo List
+# FeatherJS + VueJS + MySQL Todo List
 
 ![VueJS Todo](../screenshots/vue-todo.PNG)
 #
