@@ -1,4 +1,4 @@
-# HapiJs + ReactJS + MySQL Todo List
+# HapiJs + ReactJS + MongoDB Todo List
 
 ![ReactJS Todo](../screenshots/react-todo.PNG)
 #
