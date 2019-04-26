@@ -1,2 +1,10 @@
-# AngularJS, MySQL, Express, NodeJS Todo List
-A todo list sample application with AngularJS, MySQL, Express, NodeJS
+# MEAN Todo List (MySQL, Express, Angular, NodeJS)
+
+![MEAN Todo](../screenshots/angular-todo.PNG)
+#
+![MEAN Todo](../screenshots/angular-todo2.PNG)
+
+
+## Setup
+
+Manually clone the repo and then run `npm install`.
