@@ -1,4 +1,4 @@
-# MEVN Todo List (MongoDB, Express, VueJS, NodeJS)
+# MEVN Todo List (MySQL, Express, VueJS, NodeJS)
 
 ![MEVN Todo](../screenshots/vue-todo.PNG)
 #
