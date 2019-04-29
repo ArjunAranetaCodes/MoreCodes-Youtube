@@ -1,2 +1,10 @@
-# ReactJS, Express Todo List
-A todo list sample application with ReactJS, Express
+# MERN Todo List (MySQL, Express, ReactJS, NodeJS)
+
+![MERN Todo](../screenshots/react-todo.PNG)
+#
+![MERN Todo](../screenshots/react-todo2.PNG)
+
+
+## Setup
+
+Manually clone the repo and then run `npm install`.
