@@ -1,4 +1,4 @@
-# AdonisJS + ReactJS + MySQL Login and Registration
+# AdonisJS + ReactJS + MongoDB Login and Registration
 
 ![ReactJS Todo](../screenshots/react-login1.PNG)
 #
