@@ -1,4 +1,4 @@
-# HapiJS + VueJS + MySQL Login and Registration
+# HapiJS + VueJS + MongoDB Login and Registration
 
 ![VueJS Todo](../screenshots/vue-login1.PNG)
 #
