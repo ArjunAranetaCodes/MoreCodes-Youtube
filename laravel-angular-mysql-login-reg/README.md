@@ -1,4 +1,4 @@
-# Laravel + Angular + MongoDB Login and Registration
+# Laravel + Angular + MySQL Login and Registration
 
 ![Angular Todo](../screenshots/angular-login1.PNG)
 #
