@@ -1,12 +1,12 @@
-#RESTful API using hapi.js and MongoDB
+# HapiJS + ReactJS + MySQL Login and Registration
 
-This is the code for this blog-post: [Build a RESTful API using hapi.js and MongoDB](http://mph-web.de/build-a-restful-api-using-hapi-js-and-mongodb/)
+![ReactJS Todo](../screenshots/react-login1.PNG)
+#
+![ReactJS Todo](../screenshots/react-login2.PNG)
+#
+![ReactJS Todo](../screenshots/react-login3.PNG)
 
-##How to setup?
 
-You should have a current version of node installed and a local MongoDB server running. Now just clone the repository and execute these two commands:
+## Setup
 
-```
-npm install
-node server.js
-```
+Manually clone the repo and then run `npm install`.
