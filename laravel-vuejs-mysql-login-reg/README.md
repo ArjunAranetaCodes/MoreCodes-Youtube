@@ -1,4 +1,4 @@
-# Laravel + VueJS + MongoDB Login and Registration
+# Laravel + VueJS + MySQL Login and Registration
 
 ![VueJS Todo](../screenshots/vue-login1.PNG)
 #
