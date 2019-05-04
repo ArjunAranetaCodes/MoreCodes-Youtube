@@ -1,4 +1,4 @@
-# MERN Login and Registration (MySQL, Express, VueJS, NodeJS)
+# MERN Login and Registration (MongoDB, Express, VueJS, NodeJS)
 
 ![VueJS Todo](../screenshots/vue-login1.PNG)
 #
