@@ -1,2 +1,12 @@
-# ReactJS, MySQL, Flask Todo List
-A todo list sample application with MySQL, ReactJS, Flask
+# Flask + ReactJS + MySQL Login and Registration
+
+![ReactJS Todo](../screenshots/react-login1.PNG)
+#
+![ReactJS Todo](../screenshots/react-login2.PNG)
+#
+![ReactJS Todo](../screenshots/react-login3.PNG)
+
+
+## Setup
+
+Manually clone the repo and then run `npm install`.
