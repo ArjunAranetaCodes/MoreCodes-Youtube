@@ -1,4 +1,4 @@
-# Flask + VueJS + MySQL Login and Registration
+# Flask + VueJS + MongoDB Login and Registration
 
 ![VueJS Todo](../screenshots/vue-login1.PNG)
 #
